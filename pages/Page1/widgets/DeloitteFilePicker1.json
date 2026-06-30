@@ -1,0 +1,53 @@
+{
+  "allowedFileTypes": [],
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 14,
+  "boxShadow": "none",
+  "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
+  "dynamicBindingPathList": [
+    {
+      "key": "buttonColor"
+    },
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicHeight": "AUTO_HEIGHT",
+  "dynamicTyping": true,
+  "fileDataType": "Base64",
+  "files": [],
+  "isCanvas": false,
+  "isDefaultClickDisabled": true,
+  "isDisabled": false,
+  "isLoading": false,
+  "isRequired": false,
+  "isVisible": true,
+  "key": "inrezfddci",
+  "label": "Select file(s)",
+  "leftColumn": 35,
+  "maxDynamicHeight": 9000,
+  "maxFileSize": 5,
+  "maxNumFiles": 1,
+  "minDynamicHeight": 4,
+  "minWidth": 120,
+  "mobileBottomRow": 10,
+  "mobileLeftColumn": 35,
+  "mobileRightColumn": 51,
+  "mobileTopRow": 6,
+  "needsErrorInfo": false,
+  "originalBottomRow": 13,
+  "originalTopRow": 6,
+  "parentColumnSpace": 14.234375,
+  "parentId": "0",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "hug",
+  "rightColumn": 51,
+  "selectedFiles": [],
+  "topRow": 6,
+  "type": "STANDARDFILEPICKER_WIDGET",
+  "version": 1,
+  "widgetId": "aprtba3zq0",
+  "widgetName": "DeloitteFilePicker1"
+}
